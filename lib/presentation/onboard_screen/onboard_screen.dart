@@ -37,8 +37,8 @@ class OnboardScreen extends GetWidget<OnboardController> {
                   begin: Alignment.topCenter,
                   end: Alignment.bottomCenter,
                   colors: [
-                    Colors.green.withOpacity(0.9),
-                    Colors.green.withOpacity(0.9),
+                    Colors.green.withOpacity(0.8),
+                    Colors.green.withOpacity(0.8),
                     Colors.green.withOpacity(0.7),
                     Colors.green.withOpacity(0.7),
                     Colors.green.withOpacity(0.5),
